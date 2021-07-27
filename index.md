@@ -4,4 +4,4 @@ Hello!
 
 `blocks of code will be written here`
 
-[Click Here](https://www.jayrgal.github.io)
+[Click Here](https://jayrgal.github.io)
