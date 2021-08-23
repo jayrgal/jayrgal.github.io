@@ -6,5 +6,7 @@ Hello!
 `Web Developer`
 `blocks of code will be written here`
 
+`Jr Web Developer`
+
 [Click Here](https://jayrgal.github.io)
 
