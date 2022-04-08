@@ -8,6 +8,4 @@ Hello!
 
 ~~The world is flat.~~
 
-<h3>Contact Form</h3>
-
 [Click Here](https://jayrgal.github.io)
