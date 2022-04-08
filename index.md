@@ -10,6 +10,18 @@ Hello!
 
 <h3>Contact Form</h3>
 
+[Click Here](https://jayrgal.github.io)
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<h3>Contact Form</h3>
+
 <div class="container">
   <form action="/action_page.php">
     <label for="fname">First Name</label>
@@ -32,5 +44,5 @@ Hello!
   </form>
 </div>
 
-[Click Here](https://jayrgal.github.io)
-
+</body>
+</html>
